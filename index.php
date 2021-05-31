@@ -4,3 +4,5 @@
 </head>
 <body>
 <?php echo '<p> Hello Cloud computing!!!!! </p>'; ?>
+</body>
+</html>
